@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+passlib
+bcrypt
+pydantic[email]
+pillow
+easyocr
+cloudinary
+python-multipart
