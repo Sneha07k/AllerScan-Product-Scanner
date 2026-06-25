@@ -1,0 +1,42 @@
+<svg width="600" height="160" viewBox="0 10 470 125" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="leafG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6EE7B7"/>
+      <stop offset="100%" style="stop-color:#34D399"/>
+    </linearGradient>
+    <linearGradient id="scanG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#67E8F9"/>
+      <stop offset="100%" style="stop-color:#A5B4FC"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Leaf shape -->
+  <path d="M58 18 C58 18 95 22 100 55 C105 88 78 112 58 118 C38 112 11 88 16 55 C21 22 58 18 58 18 Z" fill="url(#leafG)" opacity="0.95"/>
+  <!-- Leaf center vein -->
+  <line x1="58" y1="22" x2="58" y2="114" stroke="rgba(255,255,255,0.45)" stroke-width="2" stroke-linecap="round"/>
+  <!-- Side veins -->
+  <path d="M58 48 C50 53 40 54 35 58" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M58 64 C50 68 38 68 34 72" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M58 80 C50 84 40 85 36 89" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M58 48 C66 53 76 54 81 58" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M58 64 C66 68 78 68 82 72" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M58 80 C66 84 76 85 80 89" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.4" stroke-linecap="round"/>
+
+  <!-- Scan line -->
+  <line x1="12" y1="70" x2="104" y2="70" stroke="url(#scanG)" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="12" cy="70" r="3.5" fill="#67E8F9"/>
+  <circle cx="104" cy="70" r="3.5" fill="#A5B4FC"/>
+
+  <!-- Corner brackets -->
+  <path d="M18 30 L18 18 L30 18" fill="none" stroke="#67E8F9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M86 18 L98 18 L98 30" fill="none" stroke="#67E8F9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 110 L18 122 L30 122" fill="none" stroke="#A5B4FC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M86 122 L98 122 L98 110" fill="none" stroke="#A5B4FC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Wordmark: "Nutri" white, "Scan" gradient -->
+  <text x="130" y="90" font-family="'Georgia', 'Times New Roman', serif" font-size="58" font-weight="700" fill="#f0fdf4" letter-spacing="-1">Nutri</text>
+  <text x="288" y="90" font-family="'Georgia', 'Times New Roman', serif" font-size="58" font-weight="700" fill="url(#scanG)" letter-spacing="-1">Scan</text>
+
+  <!-- Tagline -->
+  <text x="131" y="116" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="rgba(240,253,244,0.45)" letter-spacing="3.5">SMART NUTRITION SCANNER</text>
+</svg>
