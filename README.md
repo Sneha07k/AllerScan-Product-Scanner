@@ -82,15 +82,15 @@ AllerScan/
 
 <img width="371" height="313" alt="Screenshot 2026-07-05 122655" src="https://github.com/user-attachments/assets/93169099-0e5b-4a5d-bbe0-1d7eb2c36b52" />
 
-<img width="727" height="624" alt="image" src="https://github.com/user-attachments/assets/684c00c4-9b51-4c89-bde0-9ee7c7889090" />
+<img width="371" height="313" alt="image" src="https://github.com/user-attachments/assets/684c00c4-9b51-4c89-bde0-9ee7c7889090" />
 
-<img width="736" height="625" alt="image" src="https://github.com/user-attachments/assets/4a99b777-b2f0-4428-9a5f-bad5b6ce80be" />
+<img width="371" height="313" alt="image" src="https://github.com/user-attachments/assets/4a99b777-b2f0-4428-9a5f-bad5b6ce80be" />
 
-<img width="730" height="631" alt="image" src="https://github.com/user-attachments/assets/6139affe-fa13-4f56-89d7-845e4c36006f" />
+<img width="371" height="313" alt="image" src="https://github.com/user-attachments/assets/6139affe-fa13-4f56-89d7-845e4c36006f" />
 
-<img width="742" height="627" alt="image" src="https://github.com/user-attachments/assets/3f0ff84d-a0fe-4cea-abbc-08f71d0b954e" />
+<img width="371" height="313" alt="image" src="https://github.com/user-attachments/assets/3f0ff84d-a0fe-4cea-abbc-08f71d0b954e" />
 
-<img width="736" height="598" alt="image" src="https://github.com/user-attachments/assets/0ad20933-2305-4f1a-9cff-7463df5720a7" />
+<img width="371" height="313" alt="image" src="https://github.com/user-attachments/assets/0ad20933-2305-4f1a-9cff-7463df5720a7" />
 
 
 ---
