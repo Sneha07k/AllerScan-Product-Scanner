@@ -580,7 +580,7 @@ export default function LandingPage() {
         }}
       >
         {STATS.map((s, i) => (
-          <React.Fragment key={s.label}>
+          <Fragment key={s.label}>
             <div style={{ textAlign: "center" }}>
               <span
                 style={{
@@ -614,7 +614,7 @@ export default function LandingPage() {
                 }}
               />
             )}
-          </React.Fragment>
+          </Fragment>
         ))}
       </div>
 
