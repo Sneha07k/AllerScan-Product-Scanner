@@ -1,4 +1,4 @@
-# 🥜 AllerScan – AI-Powered Allergy Detection & Food Safety Assistant
+#  AllerScan – AI-Powered Allergy Detection & Food Safety Assistant
 
 AllerScan is an AI-powered web application that helps users make safer food choices by identifying potential allergens from product ingredient labels. Users can upload an image of a food product, and the application extracts the ingredient list using OCR, analyzes it against the user's allergy profile, and provides a clear safety assessment. The platform also features an AI chatbot for ingredient explanations, scan history, and personalized allergy management.
 
